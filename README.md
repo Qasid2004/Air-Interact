@@ -23,7 +23,7 @@
 
 1. Clone this repository:
   
-   git clone https://github.com/Qasid2004/airinteract-hub.git
+   git clone https://github.com/Qasid2004/Air-Interact.git
    cd airinteract-hub
 
 Install required Python packages:

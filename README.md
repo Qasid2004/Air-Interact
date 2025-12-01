@@ -50,19 +50,32 @@ python launcher.py --cam 0
 Replace 0 with your camera index.
 
 
-Folder Structure
+Folder Structure:
+
 airinteract-hub/
+
 │
+
 ├─ launcher.py           # Main GUI launcher
+
 ├─ presentation_mode/
+
 │   ├─ presentation_main.py
+
 │   ├─ presentation_gestures.py
+
 │   └─ presentation_controls.py
+
 ├─ game_mode/
+
 │   └─ game_main.py
+
 ├─ general_mode/
+
 │   └─ general_main.py
+
 ├─ requirements.txt
+
 └─ README.md
 
 1. Usage / How to Use (Step-by-step)
